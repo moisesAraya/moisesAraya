@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisesaraya" alt="moisesaraya" /></a> </p>
 
-- 🔭Actualmente trabajando en mi Tesis [, un sistema de registro para los académicos de mi facultad](https://github.com/moisesAraya/registro_ingreso)
+- 🔭Actualmente trabajando en mi Tesis, un [sistema de registro para los académicos de mi facultad](https://github.com/moisesAraya/registro_ingreso)
 
 - 🌱 Actualmente estoy aprendiendo **Django, React Native**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 Todos mis proyectos los encuentras en [https://github.com/moisesAraya](https://github.com/moisesAraya)
 
-- 📫 Como encontrarme **moises.araya2001@gmail.com**
+- 📫 Como contactarme **moises.araya2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

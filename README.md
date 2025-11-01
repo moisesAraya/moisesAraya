@@ -8,9 +8,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Django, React Native**
 
-- 👯 También trabajando colaborativamente en **Mundo Puertas**
-
-- 👨‍💻 Todos mis proyectos los encuentras en [https://github.com/moisesAraya](https://github.com/moisesAraya)
+- 👯 También trabajé colaborativamente en **Mundo Puertas**
 
 - 📫 Como contactarme **moises.araya2001@gmail.com**
 
